@@ -1,8 +1,23 @@
-# 👩🏻‍💻 matheus
+# 👩🏻‍💻 Matheus
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Full-Stack`**
 
-Me chamo Matheus, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+I’m a Junior Full-Stack Developer passionate about solving problems with clean, scalable code and generating real world impact. Since childhood, I’ve been driven by curiosity finding an old computer at home sparked my interest in technology and led me to learn programming on my own.
+
+Currently pursuing a B.S. in Software Development (expected graduation: June 2026), I’ve built 5 academic projects focused on automation, creating reports and dashboards that reduced manual work by over 50% and improved efficiency across tasks.
+
+I’m currently leveling up my skills with a strong focus on Node.js, TypeScript, React/Next.js, PostgreSQL, and AWS, while also working with Docker, RESTful APIs, CI/CD pipelines, and automated testing to build production ready solutions.
+
+Tech Stack and Tools:
+
+Languages & Frameworks: Node.js | TypeScript | JavaScript | Java | PHP | Spring Boot
+Frontend: React.js | Next.js | HTML, CSS
+Backend & APIs: RESTful APIs | Express.js
+Databases: PostgreSQL | MySQL | SQL
+DevOps & Cloud: AWS | Docker | CI/CD pipelines
+Testing & QA: Automated testing | QA tools
+Data & BI: Python | Power BI
+
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -26,11 +41,11 @@ Me chamo Matheus, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o e
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/matheusebrasil?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me" 
+            src="https://custom-icon-badges.demolab.com/github.com/matheusebrasil??color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
