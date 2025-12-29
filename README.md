@@ -147,13 +147,9 @@ I’m currently leveling up my skills with a strong focus on Node.js, TypeScript
 
 ### 📊 Statistics
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matheusebrasil&show_icons=true&theme=tokyonight" 
-  />
-
+<p align="center">
+<a href="https://github.com/AVS1508">
+    <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheusebrasil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheusebrasil&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
