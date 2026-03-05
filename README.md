@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Matheus
 
-**`Desenvolvedora Full-Stack`**
+**`Desenvolvedor Full-Stack`**
 
 I’m a Junior Full-Stack Developer passionate about solving problems with clean, scalable code and generating real world impact. Since childhood, I’ve been driven by curiosity finding an old computer at home sparked my interest in technology and led me to learn programming on my own.
 I’m currently leveling up my skills with a strong focus on Node.js, TypeScript, React/Next.js, PostgreSQL, and AWS, while also working with Docker, RESTful APIs, CI/CD pipelines, and automated testing to build production ready solutions.
